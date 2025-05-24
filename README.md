@@ -28,8 +28,9 @@
 
 ###
 <div align="left">
- <href="https://www.instagram.com/sourazzk/profilecard/?igsh=MWJ1Mnc1NTQ4eDJmNA==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
+<a href="https://www.instagram.com/sourazzk/profilecard/?igsh=MWJ1Mnc1NTQ4eDJmNA==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo" />
+</a>
 </div>
 
 ###
