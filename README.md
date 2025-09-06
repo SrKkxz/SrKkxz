@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0:FF70D7,100:6F00FF&reversal=true" width="100%" alt="Banner" />
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   Olá, eu sou o João Antônio!
@@ -62,3 +64,5 @@
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=SrKkxz&label=Visitas&color=blueviolet&style=flat" alt="Contador de Visitas" />  
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=4B0082&reversal=true&section=footer" width="100%" alt="Footer" />
