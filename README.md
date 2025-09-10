@@ -4,7 +4,7 @@
 <!-- TÍTULO -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
-  Olá, eu sou o João Antônio!
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B216F7&center=true&vCenter=true&repeat=false&width=325&height=25&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Ant%C3%B4nio!" alt="Typing SVG" /></a>
 </h1>
 
 <!-- INTRO -->
