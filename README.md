@@ -26,9 +26,6 @@
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrKkxz&layout=compact&theme=midnight-purple&locale=pt-br&hide_border=true" height="140" alt="Linguagens Mais Usadas" />
       </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=SrKkxz&theme=midnight-purple&hide_border=true" height="140" alt="Streak" />
-      </td>
     </tr>
   </table>
 </div>
