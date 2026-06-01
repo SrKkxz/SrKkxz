@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  ✨ Tenho 16 anos, sou do interior do Ceará e estudante do curso técnico em <strong>Informática no IFCE</strong>.<br>
+  ✨ Tenho 17 anos, sou do interior do Ceará e estudante do curso técnico em <strong>Informática no IFCE</strong>.<br>
   Sou um jovem desenvolvedor focado em constante evolução. Meu objetivo é aprender continuamente, dominar novas tecnologias e transformar desafios em soluções eficientes e funcionais.
 </p>
 
